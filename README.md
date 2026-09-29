@@ -1,5 +1,9 @@
 # path-rescue
 
+> **AI-assisted project.** This codebase was created with [Claude](https://claude.com/claude-code)
+> (Anthropic), directed and reviewed by a human author.
+> Read the script before running it elevated — it writes the machine PATH.
+
 Recover a Windows **system PATH** that an installer replaced instead of appended to.
 
 ## What went wrong
